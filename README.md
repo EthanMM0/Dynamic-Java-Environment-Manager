@@ -1,5 +1,6 @@
-#Dynamic Java Environment Manager
-##A modern, sketchboard-inspired desktop app built with Python (PyQt5) that makes managing multiple JDK installations effortless. It automatically detects installed Java versions, displays them in a playful hand-drawn UI, and lets you set any version as the system default by updating JAVA_HOME and PATH — all without touching environment variables manually.
+# Dynamic Java Environment Manager#
+
+## A modern, sketchboard-inspired desktop app built with Python (PyQt5) that makes managing multiple JDK installations effortless. It automatically detects installed Java versions, displays them in a playful hand-drawn UI, and lets you set any version as the system default by updating JAVA_HOME and PATH — all without touching environment variables manually.
 
 **✨ Features:**
 
